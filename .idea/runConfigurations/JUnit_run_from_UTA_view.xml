@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JUnit run from UTA view" type="JUnit" factoryName="JUnit">
+    <module name="demo" />
+    <shortenClasspath name="MANIFEST" />
+    <extension name="coverage" runner="jtest" />
+    <option name="PACKAGE_NAME" value="examples.nbank" />
+    <option name="MAIN_CLASS_NAME" value="examples.nbank.AccountTest" />
+    <option name="METHOD_NAME" value="testSetBalance3" />
+    <option name="TEST_OBJECT" value="method" />
+    <RunnerSettings jtest.executionsettings.utaEnabled="true" jtest.executionsettings.coverageEnabled="true" jtest.executionsettings.coveragePaneActive="true" RunnerId="Jtest">
+      <module name="demo" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage" runner="jtest" />
+      <option name="PACKAGE_NAME" value="examples.nbank" />
+      <option name="MAIN_CLASS_NAME" value="examples.nbank.AccountTest" />
+      <option name="METHOD_NAME" value="testSetBalance3" />
+      <option name="TEST_OBJECT" value="method" />
+    </RunnerSettings>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
